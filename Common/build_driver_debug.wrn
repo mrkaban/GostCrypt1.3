@@ -1,0 +1,2 @@
+1>warnings in directory b:\labo\gostcrypt\gostcrypt-windows\common
+1>b:\labo\gostcrypt\gostcrypt-windows\common\crypto.c(97) : warning C4133: 'function' : incompatible types - from 'unsigned char *' to 'unsigned long *'

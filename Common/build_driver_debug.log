@@ -1,0 +1,19 @@
+BUILD: Computing Include file dependencies:
+BUILD: Examining b:\labo\gostcrypt\gostcrypt-windows\common directory for files to compile.
+1>Compiling b:\labo\gostcrypt\gostcrypt-windows\common *************
+1>'nmake.exe /nologo BUILDMSG=Stop. /S /C -i BUILD_PASS=PASS1 NOLINK=1 NOPASS0=1 MAKEDIR_RELATIVE_TO_BASEDIR='
+1>BUILDMSG: _NT_TARGET_VERSION SET TO WS03
+1>cache.c
+1>crc.c
+1>crypto.c
+1>b:\labo\gostcrypt\gostcrypt-windows\common\crypto.c(97) : warning C4133: 'function' : incompatible types - from 'unsigned char *' to 'unsigned long *'
+1>warnings in directory b:\labo\gostcrypt\gostcrypt-windows\common
+1>b:\labo\gostcrypt\gostcrypt-windows\common\crypto.c(97) : warning C4133: 'function' : incompatible types - from 'unsigned char *' to 'unsigned long *'
+1>encryptionthreadpool.c
+1>endian.c
+1>gfmul.c
+1>pkcs5.c
+1>volumes.c
+1>xts.c
+1>tests.c
+1>wipe.c
